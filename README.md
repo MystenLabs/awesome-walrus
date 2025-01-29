@@ -11,3 +11,5 @@ Walrus is the next generation of data storage. It is secure, efficient, and dece
 [**Submit your own developer tool here**](CONTRIBUTING.md)
 
 ## Contents
+
+[Walrus Seal](https://gitlab.com/blockscope-net/walrus-seal) A node monitoring CLI tool that alerts via PD, Slack, Discord and TG.
