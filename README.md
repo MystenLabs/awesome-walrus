@@ -11,3 +11,5 @@ Walrus is the next generation of data storage. It is secure, efficient, and dece
 [**Submit your own developer tool here**](CONTRIBUTING.md)
 
 ## Contents
+
+[Walrus Grafana Tools](https://github.com/bartosian/walrus-tools) A collection of Grafana tools for the Walrus ecosystem monitoring.
