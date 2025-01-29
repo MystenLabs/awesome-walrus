@@ -10,4 +10,10 @@ Walrus is the next generation of data storage. It is secure, efficient, and dece
 
 [**Submit your own developer tool here**](CONTRIBUTING.md)
 
+[Walrus Operators Dashboard](https://walrus.brightlystake.com)  
+Shows historic state's of Operators  
+[Shards Dashboard](https://walrus.brightlystake.com/shard-owners)  
+Shows historic state's of Shards
+
+
 ## Contents
