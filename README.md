@@ -12,4 +12,4 @@ Walrus is the next generation of data storage. It is secure, efficient, and dece
 
 ## Contents
 
-[Walrus Morsa](https://gitlab.com/blockscope-net/walrus-morsa) A node monitoring CLI tool that alerts via PD, Slack, Discord and TG.
+[Morsa](https://gitlab.com/blockscope-net/walrus-morsa) A node monitoring CLI tool that alerts via PD, Slack, Discord and TG.
