@@ -11,3 +11,6 @@ Walrus is the next generation of data storage. It is secure, efficient, and dece
 [**Submit your own developer tool here**](CONTRIBUTING.md)
 
 ## Contents
+
+[Walrus public aggregator dashboard](https://walrus-latency.nodeinfra.com)
+Monitors the status of public aggregators listed in the Walrus documentation.
