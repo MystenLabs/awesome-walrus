@@ -11,3 +11,4 @@ Walrus is the next generation of data storage. It is secure, efficient, and dece
 [**Submit your own developer tool here**](CONTRIBUTING.md)
 
 ## Contents
+Walrus Monitoring Tools by Chainode Tech: https://github.com/Chainode/Walrus-Tools. It enables monitoring of your Walrus Storage Node, Publisher, Aggregator, and the underlying hardware.
