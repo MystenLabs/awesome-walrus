@@ -6,6 +6,7 @@ Tooling Name (Please Replace)
 ## Tooling Category
 - [ ] Visualization
 - [ ] Cli Tools
+- [ ] Walrus Sites
 
 
 ## Homepage or Repo or Download Link
