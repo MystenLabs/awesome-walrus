@@ -13,6 +13,7 @@ Walrus is the next generation of data storage. It is secure, efficient, and dece
 ## Contents
 - [Visualization](#visualization)
 - [Cli Tools](#cli-tools)
+- [Walrus Sites](#walrus-sites)
 
 ## Visualization
 - Brightlystake - Online dashboards show state's of operators and shards
@@ -23,3 +24,7 @@ Walrus is the next generation of data storage. It is secure, efficient, and dece
 ## Cli Tools
 - [Morsa](https://gitlab.com/blockscope-net/walrus-morsa) - A storage node monitoring CLI tool that alerts via PD, Slack, Discord and TG.
 - [walrus-completion](https://github.com/StakinOfficial/walrus-completion) - A bash, zsh and Python completion for Walrus CLI.
+
+## Walrus Sites
+- Walrus Sites GA - Reusable GitHub Action for deploying Walrus Sites
+  - [GitHub](https://github.com/zktx-io/walrus-sites-ga) - [Marketplace](https://github.com/marketplace/actions/walrus-sites-ga) - [Examples](https://github.com/zktx-io/walrus-sites-ga-example) - [Further Information](details/walrus_sites_ga.md)
