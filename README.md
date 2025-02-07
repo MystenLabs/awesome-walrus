@@ -10,13 +10,16 @@ Walrus is the next generation of data storage. It is secure, efficient, and dece
 
 [**Submit your own developer tool here**](CONTRIBUTING.md)
 
+## Contents
+- [Visualization](#visualization)
+- [Cli Tools](#cli-tools)
+
 ## Visualization
 - Brightlystake - Online dashboards show state's of operators and shards
   - [Walrus Operators Dashboard](https://walrus.brightlystake.com) - [Shards Dashboard](https://walrus.brightlystake.com/shard-owners) - [Further Information](details/brightly-stake.md)
   - Load balanced SUI RPC with geo affinity enabled [https://lb-sui-testnet.brightlystake.com:443](https://lb-sui-testnet.brightlystake.com:443)
+- [Walrus Grafana Tools](https://github.com/bartosian/walrus-tools) - A collection of Grafana tools for the Walrus ecosystem monitoring.
 
-## Contents
+## Cli Tools
+- [walrus-completion](https://github.com/StakinOfficial/walrus-completion) - A bash, zsh and Python completion for Walrus CLI.
 
-## Tools
-
-- [walrus-completion](https://github.com/StakinOfficial/walrus-completion) A bash, zsh and Python completion for Walrus CLI.
