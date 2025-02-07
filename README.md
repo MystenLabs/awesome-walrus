@@ -11,3 +11,7 @@ Walrus is the next generation of data storage. It is secure, efficient, and dece
 [**Submit your own developer tool here**](CONTRIBUTING.md)
 
 ## Contents
+
+## Tools
+
+- [walrus-completion](https://github.com/StakinOfficial/walrus-completion) A bash, zsh and Python completion for Walrus CLI.
