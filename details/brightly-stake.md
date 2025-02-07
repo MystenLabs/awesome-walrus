@@ -5,6 +5,11 @@ At Brightlystake we are extremely thrilled about the possibilities that comes wi
 
 We have created a tool for the $WAL operators to measure their performance over a period of time. 
 
+## Tooling Category
+- [X] Visualization
+- [ ] Cli Tools
+
+## Features
 1. [Overall Dashboard](https://walrus.brightlystake.com)
   - Timelines 
     - Red highlight 
@@ -24,3 +29,6 @@ We have created a tool for the $WAL operators to measure their performance over 
 2. [Shards Dashboard](https://walrus.brightlystake.com/shard-owners)
   - Display which shard is assigned to which operator.
   - Depending upon how many previous assignment the shard had we highlight in different colors.
+
+## Latest Version Number of Walrus Tested On
+Testnet

@@ -1,4 +1,4 @@
-# Awesome Walrus[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Walrus [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 <a href="https://walrus.xyz/"><img alt="Walrus logo" src="media/logo.svg" align="right" width="150" /></a>
 
