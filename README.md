@@ -10,6 +10,11 @@ Walrus is the next generation of data storage. It is secure, efficient, and dece
 
 [**Submit your own developer tool here**](CONTRIBUTING.md)
 
+## Visualization
+- Brightlystake - Online dashboards show state's of operators and shards
+  - [Walrus Operators Dashboard](https://walrus.brightlystake.com) - [Shards Dashboard](https://walrus.brightlystake.com/shard-owners) - [Further Information](details/brightly-stake.md)
+  - Load balanced SUI RPC with geo affinity enabled [https://lb-sui-testnet.brightlystake.com:443](https://lb-sui-testnet.brightlystake.com:443)
+
 ## Contents
 
 ## Tools
