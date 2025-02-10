@@ -33,3 +33,4 @@ Walrus is the next generation of data storage. It is secure, efficient, and dece
 
 ## Operator Tooling
 - [Walrus Aggregator cache config](https://gist.github.com/DataKnox/983d834202e235dc25e9f5ae69e6c2fb) - Steps to configure the Walrus Aggregator Cache with NGinx and LetsEncrypt.
+- [Walrus Monitoring Tools by Chainode Tech](https://github.com/Chainode/Walrus-Tools) - It enables monitoring of your Walrus Storage Node, Publisher, Aggregator, and the underlying hardware.
