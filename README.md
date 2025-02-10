@@ -14,6 +14,7 @@ Walrus is the next generation of data storage. It is secure, efficient, and dece
 - [Visualization](#visualization)
 - [Cli Tools](#cli-tools)
 - [Walrus Sites](#walrus-sites)
+- [Operator Tooling](#operator-tooling)
 
 ## Visualization
 - Brightlystake - Online dashboards show state's of operators and shards
@@ -28,3 +29,6 @@ Walrus is the next generation of data storage. It is secure, efficient, and dece
 ## Walrus Sites
 - Walrus Sites GA - Reusable GitHub Action for deploying Walrus Sites
   - [GitHub](https://github.com/zktx-io/walrus-sites-ga) - [Marketplace](https://github.com/marketplace/actions/walrus-sites-ga) - [Examples](https://github.com/zktx-io/walrus-sites-ga-example) - [Further Information](details/walrus_sites_ga.md)
+
+## Operator Tooling
+- [Walrus Aggregator cache config](https://gist.github.com/DataKnox/983d834202e235dc25e9f5ae69e6c2fb) - Steps to configure the Walrus Aggregator Cache with NGinx and LetsEncrypt
