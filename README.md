@@ -32,3 +32,4 @@ Walrus is the next generation of data storage. It is secure, efficient, and dece
 
 ## Operator Tooling
 - [Walrus Aggregator cache config](https://gist.github.com/DataKnox/983d834202e235dc25e9f5ae69e6c2fb) - Steps to configure the Walrus Aggregator Cache with NGinx and LetsEncrypt
+- [Ansible Playbook to Upgrade Binaries](https://gist.github.com/DataKnox/7874ec6e6d1658fbb194f523494f83ed) - An Ansible playbook for upgrading binaries on a Walrus node when new releases are available.
