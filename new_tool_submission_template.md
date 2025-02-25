@@ -4,6 +4,7 @@ Tooling Name (Please Replace)
 (Description)
 
 ## Tooling Category
+- [ ] SDKs
 - [ ] Visualization
 - [ ] Cli Tools
 - [ ] Walrus Sites
