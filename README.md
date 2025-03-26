@@ -18,7 +18,7 @@ Walrus is the next generation of data storage. It is secure, efficient, and dece
 
 ## Visualization
 - Brightlystake - Online dashboards show state's of operators and shards
-  - [Walrus Operators Dashboard](https://walrus.brightlystake.com) - [Shards Dashboard](https://walrus.brightlystake.com/shard-owners) - [Further Information](details/brightly-stake.md)
+  - [Walrus Operators Dashboard](https://walrus-stats.brightlystake.com) - [Shards Dashboard](https://walrus-stats.brightlystake.com/shard-owners) - [Further Information](details/brightly-stake.md)
   - Load balanced SUI RPC with geo affinity enabled [https://lb-sui-testnet.brightlystake.com:443](https://lb-sui-testnet.brightlystake.com:443)
 - [Walrus Grafana Tools](https://github.com/bartosian/walrus-tools) - A collection of Grafana tools for the Walrus ecosystem monitoring.
 - [Walrus public aggregator dashboard](https://walrus-latency.nodeinfra.com) - Monitors the status of public aggregators listed in the Walrus documentation.
