@@ -26,7 +26,7 @@ Walrus is the next generation of data storage. It is secure, efficient, and dece
   - [Walrus Operators Dashboard](https://walrus-stats.brightlystake.com) - [Shards Dashboard](https://walrus-stats.brightlystake.com/shard-owners) - [Further Information](details/brightly-stake.md)
   - Load balanced SUI RPC with geo affinity enabled [https://lb-sui-testnet.brightlystake.com:443](https://lb-sui-testnet.brightlystake.com:443)
 - [Walrus Grafana Tools](https://github.com/bartosian/walrus-tools) - A collection of Grafana tools for the Walrus ecosystem monitoring.
-- [Walrus public aggregator dashboard](https://walrus-latency.nodeinfra.com) - Monitors the status of public aggregators listed in the Walrus documentation.
+- [Walrus Endpoint Latency Dashboard](https://walrus-latency.nodeinfra.com) - Monitors the latency of public aggregator endpoints of Walrus.
 - [Walrus ChainViz](https://walrus.chainviz.io) - ChainViz is an interactive explorer for the Walrus network, providing a comprehensive view of decentralized storage. It features a 3D globe for visualizing the network, live monitoring of nodes, aggregators, and publishers, as well as advanced filtering and search capabilities.
 
 ## Cli Tools
