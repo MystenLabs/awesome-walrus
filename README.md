@@ -42,3 +42,4 @@ Walrus is the next generation of data storage. It is secure, efficient, and dece
 - [Walrus Monitoring Tools by Chainode Tech](https://github.com/Chainode/Walrus-Tools) - It enables monitoring of your Walrus Storage Node, Publisher, Aggregator, and the underlying hardware.
 - [Walrus Ansible Deployment](https://github.com/imperator-co-org/walrus-ansible) - Ansible playbook for deploying a walrus node: Storage, Aggregator & Publisher with Docker-Compose.
 - [Walrus Faucet](https://faucet.stakepool.dev.br/walrus) - A public faucet for developers who need test tokens in the Walrus ecosystem.
+- [Walrus Commission Claim](https://github.com/suicore/operator-tools) - Enables operators to claim commission using Sui Wallet-compatible wallets, including: zkLogin wallets, Hardware wallets, Passphrase wallets.
