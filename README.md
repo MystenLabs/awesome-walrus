@@ -17,7 +17,7 @@ Walrus is the next generation of data storage. It is secure, efficient, and dece
 - [Walrus Sites](#walrus-sites)
 
 ## SDKs
-- [Golang SDK]([https://nami](https://github.com/namihq/walrus-go)- Walrus Go SDK maintained by the Nami Cloud
+- [Golang SDK](https://github.com/namihq/walrus-go) - Walrus Go SDK maintained by the Nami Cloud
 
 ## Visualization
 - Brightlystake - Online dashboards show state's of operators and shards
