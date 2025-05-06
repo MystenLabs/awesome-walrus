@@ -33,7 +33,7 @@ Walrus is the next generation of data storage. It is secure, efficient, and dece
 ## Cli Tools
 - [Morsa](https://gitlab.com/blockscope-net/walrus-morsa) - A storage node monitoring CLI tool that alerts via PD, Slack, Discord and TG.
 - [walrus-completion](https://github.com/StakinOfficial/walrus-completion) - A bash, zsh and Python completion for Walrus CLI.
-- [walrus-sites-deploy](https://www.npmjs.com/package/walrus-sites-deploy) - A Suibase-based CLI tool for seamless deployment of a site to Walrus Sites
+- [walrus-sites-deploy](https://www.npmjs.com/package/walrus-sites-deploy) - A Suibase-based CLI tool for seamless deployment of a site to Walrus Sites.
 
 ## Walrus Sites
 - Walrus Sites GA - Reusable GitHub Action for deploying Walrus Sites
