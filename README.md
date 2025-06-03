@@ -20,7 +20,9 @@ Walrus is the next generation of data storage. It is secure, efficient, and dece
 ## SDKs
 - [Mysten Labs Typescript SDK](https://sdk.mystenlabs.com/walrus) - The walrus SDK exposes high level methods for reading and writing blobs, as well as lower level methods for the individual steps in the process that can be used to implement more complex flows when you want more control to implement more optimized implementations.
 - [Seal SDK](https://www.npmjs.com/package/@mysten/seal) - TypeScript SDK for [Seal](https://github.com/MystenLabs/seal), a decentralized secrets management service that secures your data using threshold encryption and on-chain access control.
+- [Golang SDK](https://github.com/namihq/walrus-go) - Walrus Go SDK maintained by the Nami Cloud.
 - [Tusky](https://github.com/tusky-io/ts-sdk) - TypeScript SDK for a complete file system on Walrus. It includes end-to-end encryption, file management and access control.
+- [Standard Crypto Walrus Python SDK](https://github.com/standard-crypto/walrus-python) - A Python client for interacting with the Walrus HTTP API.
 
 ## Visualization
 - Brightlystake - Online dashboards show state's of operators and shards
@@ -32,8 +34,10 @@ Walrus is the next generation of data storage. It is secure, efficient, and dece
 
 ## Cli Tools
 - [Morsa](https://gitlab.com/blockscope-net/walrus-morsa) - A storage node monitoring CLI tool that alerts via PD, Slack, Discord and TG.
+- [Suibase](https://suibase.io/walrus) - Scripts for peace of mind that every operations is done with the proper binary+config+wallet matching the network.
 - [walrus-completion](https://github.com/StakinOfficial/walrus-completion) - A bash, zsh and Python completion for Walrus CLI.
 - [wal-dev](https://wal-dev.pages.dev) - Npm package | Quick start toolkit for Walrus.
+- [walrus-sites-deploy](https://www.npmjs.com/package/walrus-sites-deploy) - A Suibase-based CLI tool for seamless deployment of a site to Walrus Sites.
 
 ## Walrus Sites
 - Walrus Sites GA - Reusable GitHub Action for deploying Walrus Sites
