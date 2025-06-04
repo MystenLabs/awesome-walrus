@@ -1,20 +1,22 @@
-Walrus Sites GitHub Action
+### Walrus Sites GitHub Action (Deprecated)
 ---
-Deploying a Walrus website using GitHub Actions offers an automated workflow that simplifies the deployment process with each code change. This eliminates the need for manual configuration of the Walrus CLI, saving time and reducing errors. GitHub Actions also provide robust version control and history tracking, ensuring a transparent and reliable deployment process with a clear audit trail for every change. With this action, you can seamlessly publish a new website or update an existing one.
 
+> ⚠️ **Deprecated**: This tool is now superseded by [`walrus-sites-provenance`](https://github.com/zktx-io/walrus-sites-provenance), which includes integrated SLSA provenance generation and verification compatibility via [notary.wal.app](https://notary.wal.app).
+
+The original GitHub Action for deploying a Walrus website via GitHub Actions. It provided a basic automated deployment pipeline, eliminating manual configuration of the Walrus CLI and streamlining version control.
 
 ## Tooling Category
-- [ ] Visualization
-- [ ] Cli Tools
-- [X] Walrus Sites
+- [ ] Visualization  
+- [ ] Cli Tools  
+- [x] Walrus Sites
 
 ## Features
-- Publish the site
-- Update the site
+- Publish the site  
+- Update the site  
 
 ## Documentation or Tutorial
-- [Docs](https://docs.zktx.io/walrus/walrus-ga.html)
-
+- [Deprecated Docs](https://docs.zktx.io/walrus/walrus-ga.html)  
+- [Recommended: walrus-sites-provenance](https://github.com/zktx-io/walrus-sites-provenance)
 
 ## Latest Version Number of Sui Tested On
-Testnet v1.32.0
+Testnet
