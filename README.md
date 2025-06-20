@@ -22,6 +22,7 @@ Walrus is the next generation of data storage. It is secure, efficient, and dece
 - [Seal SDK](https://www.npmjs.com/package/@mysten/seal) - TypeScript SDK for [Seal](https://github.com/MystenLabs/seal), a decentralized secrets management service that secures your data using threshold encryption and on-chain access control.
 - [Golang SDK](https://github.com/namihq/walrus-go) - Walrus Go SDK maintained by the Nami Cloud.
 - [Tusky](https://github.com/tusky-io/ts-sdk) - TypeScript SDK for a complete file system on Walrus. It includes end-to-end encryption, file management and access control.
+- [S3 Compatible Storage API](https://docs.nami.cloud/api-reference/storage/authentication) - S3 Compatible Walrus Storage API maintained by Nami Cloud. It supports Authentication, Bucket Operations, and Object Operations.
 - [Standard Crypto Walrus Python SDK](https://github.com/standard-crypto/walrus-python) - A Python client for interacting with the Walrus HTTP API.
 
 ## Visualization
