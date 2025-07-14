@@ -32,6 +32,7 @@ Walrus is the next generation of data storage. It is secure, efficient, and dece
 - [Walrus Grafana Tools](https://github.com/bartosian/walrus-tools) - A collection of Grafana tools for the Walrus ecosystem monitoring.
 - [Walrus Endpoint Latency Dashboard](https://walrus-latency.nodeinfra.com) - Monitors the latency of public aggregator endpoints of Walrus.
 - [Walrus ChainViz](https://walrus.chainviz.io) - ChainViz is an interactive explorer for the Walrus network, providing a comprehensive view of decentralized storage. It features a 3D globe for visualizing the network, live monitoring of nodes, aggregators, and publishers, as well as advanced filtering and search capabilities.
+- [Blob Board](https://github.com/reset-codes/blobboard) - A user-friendly dashboard for calculating and visualizing storage and write costs, as well as potential revenues, for the Walrus decentralized storage platform. Features cost calculations, storage projections, revenue estimations, and live crypto prices with USD conversions.
 
 ## Cli Tools
 - [Morsa](https://gitlab.com/blockscope-net/walrus-morsa) - A storage node monitoring CLI tool that alerts via PD, Slack, Discord and TG.
