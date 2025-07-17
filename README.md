@@ -13,7 +13,9 @@ Walrus is the next generation of data storage. It is secure, efficient, and dece
 ## Contents
 - [SDKs](#sdks)
 - [Visualization](#visualization)
-- [Cli Tools](#cli-tools)
+- [Analytics API](#analytics-api)
+- [Mainnet Publisher](#mainnet-publisher)
+- [CLI Tools](#cli-tools)
 - [Walrus Sites](#walrus-sites)
 - [Operator Tooling](#operator-tooling)
 
