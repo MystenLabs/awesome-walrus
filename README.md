@@ -38,6 +38,9 @@ Walrus is the next generation of data storage. It is secure, efficient, and dece
 ## Analytics API
 - [Blockberry Walrus API](https://docs.blockberry.one/reference/walrus-quickstart) - The Blockberry Walrus API provides endpoints that reveal data about major entities on Walrus, including accounts, blobs, and analytics.
 
+## Mainnet Publisher
+- [Nami Cloud Mainnet Publisher](https://docs.nami.cloud/api-reference/walrus/introduction) - Nami Cloud provides easy access to Walrus services through API endpoints that allow you to interact with the Walrus network without running your own infrastructure.
+
 ## CLI Tools
 - [Morsa](https://gitlab.com/blockscope-net/walrus-morsa) - A storage node monitoring CLI tool that alerts via PD, Slack, Discord and TG.
 - [Suibase](https://suibase.io/walrus) - Scripts for peace of mind that every operations is done with the proper binary+config+wallet matching the network.
