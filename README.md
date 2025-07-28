@@ -59,8 +59,11 @@ Walrus is the next generation of data storage. It is secure, efficient, and dece
 
 ## Walrus Sites
 
-- Walrus Sites GA - Reusable GitHub Action for deploying Walrus Sites
-  - [GitHub](https://github.com/zktx-io/walrus-sites-ga) - [Marketplace](https://github.com/marketplace/actions/walrus-sites-ga) - [Examples](https://github.com/zktx-io/walrus-sites-ga-example) - [Further Information](details/walrus_sites_ga.md)
+- [Walrus Sites Provenance](https://github.com/zktx-io/walrus-sites-provenance) - A GitHub Action for securely building, signing, verifying, and deploying Walrus static sites with [SLSA](https://slsa.dev) - compliant provenance.
+  - [Marketplace](https://github.com/marketplace/actions/walrus-sites-provenance)
+- [Walrus Sites Notary](https://notary.wal.app) - A verification site to audit Walrus deployments by comparing on-chain resources with signed provenance metadata.
+  - [GitHub](https://github.com/zktx-io/walrus-sites-notary)
+- ⚠️ [Walrus Sites GA](https://github.com/zktx-io/walrus-sites-ga) (Deprecated) – Previously used GitHub Action for deploying Walrus Sites. Replaced by `walrus-sites-provenance`.
 
 ## Operator Tooling
 
