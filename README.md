@@ -19,6 +19,7 @@ Walrus is the next generation of data storage. It is secure, efficient, and dece
 - [CLI Tools](#cli-tools)
 - [Walrus Sites](#walrus-sites)
 - [Operator Tooling](#operator-tooling)
+- [Applications](#applications)
 
 ## SDKs
 
@@ -72,3 +73,7 @@ Walrus is the next generation of data storage. It is secure, efficient, and dece
 - [Walrus Ansible Deployment](https://github.com/imperator-co-org/walrus-ansible) - Ansible playbook for deploying a walrus node: Storage, Aggregator & Publisher with Docker-Compose.
 - [Walrus Faucet](https://faucet.stakepool.dev.br/walrus) - A public faucet for developers who need test tokens in the Walrus ecosystem.
 - [Walrus Commission Claim](https://github.com/suicore/operator-tools) - Enables operators to claim commission using Sui Wallet-compatible wallets, including: zkLogin wallets, Hardware wallets, Passphrase wallets.
+
+## Applications
+
+- [WalCDN](https://walcdn.com) - WalCDN is a blazingly fast CDN for the Walrus Network, simplifying and accelerating data retrieval from decentralized nodes for a seamless, traditional CDN-like experience.
