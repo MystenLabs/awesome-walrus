@@ -8,7 +8,7 @@ Tooling Name (Please Replace)
 - [ ] Visualization
 - [ ] Cli Tools
 - [ ] Walrus Sites
-
+- [ ] Applications
 
 ## Homepage or Repo or Download Link
 
