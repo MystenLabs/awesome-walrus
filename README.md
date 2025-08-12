@@ -59,6 +59,7 @@ Walrus is the next generation of data storage. It is secure, efficient, and dece
 
 ## Walrus Sites
 
+- [Testnet Walrus Sites Portal](https://buildonwalrus.dev) - A Walrus Sites portal that supports sites deployed on Walrus Testnet.
 - [Walrus Sites Provenance](https://github.com/zktx-io/walrus-sites-provenance) - A GitHub Action for securely building, signing, verifying, and deploying Walrus static sites with [SLSA](https://slsa.dev) - compliant provenance.
   - [Marketplace](https://github.com/marketplace/actions/walrus-sites-provenance)
 - [Walrus Sites Notary](https://notary.wal.app) - A verification site to audit Walrus deployments by comparing on-chain resources with signed provenance metadata.
