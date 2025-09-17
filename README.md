@@ -48,6 +48,7 @@ Walrus is the next generation of data storage. It is secure, efficient, and dece
 ## Mainnet Publisher
 
 - [Nami Cloud Mainnet Publisher](https://docs.nami.cloud/api-reference/walrus/introduction) - Nami Cloud provides easy access to Walrus services through API endpoints that allow you to interact with the Walrus network without running your own infrastructure.
+- [Staketab Mainnet Publisher](https://walrus-mainnet-publisher-1.staketab.org:443) - Staketab provides a free mainnet publisher that could be accessed via https://walrus-mainnet-publisher-1.staketab.org:443.
 
 ## CLI Tools
 
