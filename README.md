@@ -63,11 +63,13 @@ Walrus is the next generation of data storage. It is secure, efficient, and dece
 ## Walrus Sites
 
 - [Testnet Walrus Sites Portal](https://buildonwalrus.dev) - A Walrus Sites portal that supports sites deployed on Walrus Testnet.
-- [Walrus Sites Provenance](https://github.com/zktx-io/walrus-sites-provenance) - A GitHub Action for securely building, signing, verifying, and deploying Walrus static sites with [SLSA](https://slsa.dev) - compliant provenance.
+- [Walrus Sites Provenance](https://github.com/zktx-io/walrus-sites-provenance) - GitHub Action for securely building, signing, verifying, and deploying Walrus static sites with [SLSA](https://slsa.dev)-compliant provenance.
   - [Marketplace](https://github.com/marketplace/actions/walrus-sites-provenance)
-- [Walrus Sites Notary](https://notary.wal.app) - A verification site to audit Walrus deployments by comparing on-chain resources with signed provenance metadata.
+- [Walrus Sites Notary](https://notary.wal.app) - Verification portal for Walrus deployments. Compares on-chain site objects with signed provenance metadata, and can also be validated via the [Move Registry (MVR)](https://www.moveregistry.com/).
   - [GitHub](https://github.com/zktx-io/walrus-sites-notary)
-- ⚠️ [Walrus Sites GA](https://github.com/zktx-io/walrus-sites-ga) (Deprecated) – Previously used GitHub Action for deploying Walrus Sites. Replaced by `walrus-sites-provenance`.
+- [Walrus Sites GA](https://github.com/zktx-io/walrus-sites-ga) – GitHub Action workflow that extends the [official Walrus Sites pipeline](https://docs.wal.app/walrus-sites/ci-cd.html) with provenance support, adding build, verification, and deployment steps.
+  - [Marketplace](https://github.com/marketplace/actions/walrus-sites-ga)
+  - [Example](https://github.com/zktx-io/walrus-sites-ga-example)
 
 ## Operator Tooling
 
