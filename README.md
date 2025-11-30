@@ -30,6 +30,7 @@ Walrus is the next generation of data storage. It is secure, efficient, and dece
 - [Standard Crypto Walrus Python SDK](https://github.com/standard-crypto/walrus-python) - A Python client for interacting with the Walrus HTTP API.
 - [iWalrusSDK](https://github.com/akhtarshahnawaz/iWalrusSDK) - An iOS SDK built to enable smooth uploading, downloading, publisher authentication, caching of binary blobs, and streaming via customizable publisher and aggregator services through the Walrus HTTP API.
 - [Rust SDK](https://github.com/pwh-pwh/walrus_rs) - A Rust client for interacting with the Walrus HTTP API.
+- [Flutter SDK](https://github.com/keem-hyun/walrus_dart) - Flutter SDK for Walrus with seamless integration with Flutter apps.
 
 ## Visualization
 
