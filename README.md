@@ -71,6 +71,8 @@ Walrus is the next generation of data storage. It is secure, efficient, and dece
 - [Walrus Sites GA](https://github.com/zktx-io/walrus-sites-ga) - GitHub Action workflow that extends the [official Walrus Sites pipeline](https://docs.wal.app/walrus-sites/ci-cd.html) with provenance support, adding build, verification, and deployment steps.
   - [Marketplace](https://github.com/marketplace/actions/walrus-sites-ga)
   - [Example](https://github.com/zktx-io/walrus-sites-ga-example)
+- [Walrus Sites Preview](https://www.npmjs.com/package/@zktx.io/walrus-sites-preview) - A lightweight CLI tool to preview Walrus Sites already deployed on testnet or mainnet using a familiar npm → localhost workflow. Designed for developers who want to quickly view deployed sites without changing existing pipelines.
+  - [GitHub](https://github.com/zktx-io/walrus-sites-preview)
 
 ## Operator Tooling
 
