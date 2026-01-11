@@ -31,6 +31,7 @@ Walrus is the next generation of data storage. It is secure, efficient, and dece
 - [iWalrusSDK](https://github.com/akhtarshahnawaz/iWalrusSDK) - An iOS SDK built to enable smooth uploading, downloading, publisher authentication, caching of binary blobs, and streaming via customizable publisher and aggregator services through the Walrus HTTP API.
 - [Rust SDK](https://github.com/pwh-pwh/walrus_rs) - A Rust client for interacting with the Walrus HTTP API.
 - [Flutter SDK](https://github.com/keem-hyun/walrus_dart) - A Dart client for Walrus with seamless integration.
+- [Walrus DappKit](https://github.com/Danny-Devs/walrus-dapp-kit) - Framework-agnostic reactive hooks for Walrus with React and Vue bindings. Features progress tracking, built-in caching, and typed error handling.
 
 ## Visualization
 
