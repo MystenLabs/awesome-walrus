@@ -17,6 +17,7 @@ Walrus is the next generation of data storage. It is secure, efficient, and dece
 - [Analytics API](#analytics-api)
 - [Mainnet Publisher](#mainnet-publisher)
 - [CLI Tools](#cli-tools)
+- [AI Agent Tools](#ai-agent-tools)
 - [Walrus Sites](#walrus-sites)
 - [Operator Tooling](#operator-tooling)
 
@@ -60,6 +61,10 @@ Walrus is the next generation of data storage. It is secure, efficient, and dece
 - [walrus-completion](https://github.com/StakinOfficial/walrus-completion) - A bash, zsh and Python completion for Walrus CLI.
 - [wal-dev](https://wal-dev.pages.dev) - Npm package | Quick start toolkit for Walrus.
 - [walrus-sites-deploy](https://www.npmjs.com/package/walrus-sites-deploy) - A Suibase-based CLI tool for seamless deployment of a site to Walrus Sites.
+
+## AI Agent Tools
+
+- [EDITH](https://github.com/bunnyyxtan/edith) | [Live Demo](https://edith-sooty.vercel.app/app/demo) - An open-source payment and memory layer for AI agents. Uses Walrus Memory to recall paid API outcomes and refuse repeat purchases that returned unusable data. Sui wallet owners approve payments, which are verified through Tatum's Sui gRPC gateway.
 
 ## Walrus Sites
 
